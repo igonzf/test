@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oposición 29770</title>
+  <link rel="stylesheet" href="./static/style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Oposición 29770</h1>
+      <p id="status">Cargando banco...</p>
+    </header>
+
+    <section class="panel">
+      <h2>Nuevo test</h2>
+      <div class="controls">
+        <label>Modo
+          <select id="mode">
+            <option value="general">General</option>
+            <option value="topic">Por tema</option>
+            <option value="failed">Repaso de falladas</option>
+          </select>
+        </label>
+        <label>Tema
+          <select id="topic"></select>
+        </label>
+        <label>Preguntas
+          <select id="size">
+            <option value="10">10</option>
+            <option value="25">25</option>
+            <option value="50">50</option>
+          </select>
+        </label>
+        <button id="start">Empezar</button>
+        <button id="mock">Simulacro 50/60</button>
+        <button id="resetStats" type="button">Borrar estadísticas</button>
+      </div>
+    </section>
+
+    <section id="quiz" class="panel hidden">
+      <div class="quiz-head">
+        <strong id="progress"></strong>
+        <span id="timer"></span>
+      </div>
+      <h2 id="question"></h2>
+      <div id="answers"></div>
+      <div id="feedback" class="feedback hidden"></div>
+      <button id="next" class="hidden">Siguiente</button>
+      <button id="blankMock" class="hidden">Dejar en blanco</button>
+      <button id="finishMock" class="hidden">Finalizar simulacro</button>
+    </section>
+
+    <section class="panel">
+      <h2>Estadísticas de este navegador</h2>
+      <pre id="stats">Sin datos todavía.</pre>
+    </section>
+  </main>
+  <script src="./static/app.js"></script>
+</body>
+</html>

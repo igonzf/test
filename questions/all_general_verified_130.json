@@ -1,0 +1,3138 @@
+[
+  {
+    "id": "VER-I_01-001",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_structure",
+    "concept_tags": [
+      "estructura",
+      "títulos"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuántos títulos numerados contiene la Constitución Española, además del Título Preliminar?",
+    "answers": [
+      "Diez",
+      "Nueve",
+      "Once",
+      "Doce"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Constitución se organiza en un Título Preliminar y diez títulos numerados, del I al X.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Índice y estructura de la Constitución",
+    "evidence": "Título Preliminar y Títulos I a X.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-002",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_structure",
+    "concept_tags": [
+      "disposiciones"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué tipo de disposiciones aparecen al final de la Constitución Española?",
+    "answers": [
+      "Solo adicionales y finales",
+      "Adicionales, provisionales y orgánicas",
+      "Transitorias, reglamentarias y finales",
+      "Adicionales, transitorias, derogatoria y final"
+    ],
+    "correct_answer": 3,
+    "explanation": "Tras los títulos aparecen disposiciones adicionales, transitorias, una derogatoria y una final.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Estructura final de la Constitución",
+    "evidence": "Incluye disposiciones adicionales, transitorias, derogatoria y final.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-003",
+    "topic_id": "I_01",
+    "subtopic": "general_principles",
+    "concept_tags": [
+      "estado social",
+      "estado democrático"
+    ],
+    "difficulty": "easy",
+    "question": "Según el artículo 1.1 de la Constitución, España se constituye en un Estado...",
+    "answers": [
+      "unitario y presidencialista",
+      "confederal y parlamentario",
+      "social y democrático de Derecho",
+      "federal y social de Derecho"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 1.1 define a España como Estado social y democrático de Derecho.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 1.1",
+    "evidence": "Estado social y democrático de Derecho.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-004",
+    "topic_id": "I_01",
+    "subtopic": "general_principles",
+    "concept_tags": [
+      "soberanía"
+    ],
+    "difficulty": "easy",
+    "question": "¿En quién reside la soberanía nacional según la Constitución?",
+    "answers": [
+      "En el Gobierno",
+      "En el pueblo español",
+      "En las Cortes Generales",
+      "En el Rey"
+    ],
+    "correct_answer": 1,
+    "explanation": "El artículo 1.2 atribuye la soberanía nacional al pueblo español, del que emanan los poderes del Estado.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 1.2",
+    "evidence": "La soberanía nacional reside en el pueblo español.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-005",
+    "topic_id": "I_01",
+    "subtopic": "general_principles",
+    "concept_tags": [
+      "monarquía parlamentaria"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál es la forma política del Estado español?",
+    "answers": [
+      "La Monarquía parlamentaria",
+      "La República parlamentaria",
+      "La Monarquía constitucional presidencialista",
+      "La República federal"
+    ],
+    "correct_answer": 0,
+    "explanation": "El artículo 1.3 establece expresamente la Monarquía parlamentaria como forma política del Estado.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 1.3",
+    "evidence": "La forma política es la Monarquía parlamentaria.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-006",
+    "topic_id": "I_01",
+    "subtopic": "general_principles",
+    "concept_tags": [
+      "unidad",
+      "autonomía"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué principios combina el artículo 2 de la Constitución?",
+    "answers": [
+      "Federalismo, subsidiariedad y autonomía municipal",
+      "Unidad del Gobierno, independencia provincial y solidaridad",
+      "Soberanía autonómica, confederación y cooperación",
+      "Unidad de la Nación, autonomía de nacionalidades y regiones y solidaridad"
+    ],
+    "correct_answer": 3,
+    "explanation": "El artículo 2 afirma la unidad de la Nación y reconoce y garantiza autonomía y solidaridad.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 2",
+    "evidence": "Unidad, autonomía de nacionalidades y regiones y solidaridad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-007",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_reform",
+    "concept_tags": [
+      "procedimiento ordinario"
+    ],
+    "difficulty": "medium",
+    "question": "En el procedimiento ordinario de reforma constitucional, ¿qué mayoría exige con carácter general cada Cámara?",
+    "answers": [
+      "Mayoría absoluta",
+      "Mayoría simple",
+      "Tres quintos",
+      "Dos tercios"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 167 exige, como regla general, tres quintos de cada Cámara.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 167.1",
+    "evidence": "Aprobación por mayoría de tres quintos de cada Cámara.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-008",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_reform",
+    "concept_tags": [
+      "referéndum",
+      "procedimiento ordinario"
+    ],
+    "difficulty": "hard",
+    "question": "Aprobada una reforma por el procedimiento del artículo 167, ¿cuándo se somete a referéndum?",
+    "answers": [
+      "Si lo solicita una quinta parte del Congreso en treinta días",
+      "Si lo solicita una décima parte de cualquier Cámara dentro de los quince días siguientes",
+      "Siempre, de forma obligatoria",
+      "Solo si lo solicita el Gobierno"
+    ],
+    "correct_answer": 1,
+    "explanation": "En la reforma ordinaria el referéndum es facultativo y debe pedirlo una décima parte de cualquiera de las Cámaras en quince días.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 167.3",
+    "evidence": "Referéndum si lo pide una décima parte de una Cámara en quince días.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-009",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_reform",
+    "concept_tags": [
+      "procedimiento agravado"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué mayoría inicial exige el procedimiento agravado del artículo 168?",
+    "answers": [
+      "Dos tercios de cada Cámara",
+      "Tres quintos de cada Cámara",
+      "Mayoría absoluta del Congreso y simple del Senado",
+      "Tres cuartos del Congreso"
+    ],
+    "correct_answer": 0,
+    "explanation": "La revisión total o de las materias especialmente protegidas exige aprobación por dos tercios de cada Cámara.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 168.1",
+    "evidence": "Aprobación por mayoría de dos tercios de cada Cámara.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_01-010",
+    "topic_id": "I_01",
+    "subtopic": "constitutional_reform",
+    "concept_tags": [
+      "procedimiento agravado",
+      "referéndum"
+    ],
+    "difficulty": "hard",
+    "question": "En una reforma tramitada por el artículo 168, ¿qué ocurre tras la aprobación por las nuevas Cámaras?",
+    "answers": [
+      "Puede someterse a referéndum solo si lo pide una décima parte",
+      "Entra en vigor sin referéndum",
+      "Debe ser aprobada por el Tribunal Constitucional",
+      "Debe someterse a referéndum para ratificación"
+    ],
+    "correct_answer": 3,
+    "explanation": "El procedimiento agravado culmina necesariamente con referéndum de ratificación.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 168.3",
+    "evidence": "La reforma aprobada debe someterse a referéndum.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-001",
+    "topic_id": "I_02",
+    "subtopic": "fundamental_rights",
+    "concept_tags": [
+      "igualdad"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué artículo de la Constitución proclama la igualdad de los españoles ante la ley y prohíbe la discriminación?",
+    "answers": [
+      "El artículo 23",
+      "El artículo 53",
+      "El artículo 14",
+      "El artículo 10"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 14 contiene la cláusula general de igualdad y no discriminación.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 14",
+    "evidence": "Igualdad ante la ley y prohibición de discriminación.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-002",
+    "topic_id": "I_02",
+    "subtopic": "fundamental_rights",
+    "concept_tags": [
+      "libertad ideológica"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué derecho reconoce el artículo 16.1 de la Constitución?",
+    "answers": [
+      "El derecho a la tutela judicial efectiva",
+      "La libertad ideológica, religiosa y de culto",
+      "La libertad de circulación únicamente",
+      "El derecho de petición colectiva de militares"
+    ],
+    "correct_answer": 1,
+    "explanation": "El artículo 16.1 garantiza la libertad ideológica, religiosa y de culto.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 16.1",
+    "evidence": "Libertad ideológica, religiosa y de culto.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-003",
+    "topic_id": "I_02",
+    "subtopic": "constitutional_duties",
+    "concept_tags": [
+      "defensa"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué establece la Constitución respecto a la defensa de España?",
+    "answers": [
+      "Los españoles tienen el derecho y el deber de defenderla",
+      "Es un deber exclusivo de las Fuerzas Armadas",
+      "Solo existe un derecho, no un deber",
+      "Es competencia exclusiva de las comunidades autónomas"
+    ],
+    "correct_answer": 0,
+    "explanation": "El artículo 30.1 configura la defensa de España como derecho y deber de los españoles.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 30.1",
+    "evidence": "Derecho y deber de defender España.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-004",
+    "topic_id": "I_02",
+    "subtopic": "constitutional_duties",
+    "concept_tags": [
+      "tributos"
+    ],
+    "difficulty": "medium",
+    "question": "¿Con arreglo a qué principio contribuirán todos al sostenimiento de los gastos públicos?",
+    "answers": [
+      "A partes iguales, con independencia de su capacidad económica",
+      "Según su residencia, mediante tributos proporcionales obligatoriamente",
+      "Exclusivamente mediante impuestos directos",
+      "A su capacidad económica, mediante un sistema tributario justo"
+    ],
+    "correct_answer": 3,
+    "explanation": "El artículo 31.1 vincula la contribución a la capacidad económica y a un sistema tributario justo.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 31.1",
+    "evidence": "Contribución según capacidad económica mediante sistema tributario justo.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-005",
+    "topic_id": "I_02",
+    "subtopic": "rights_guarantees",
+    "concept_tags": [
+      "amparo"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué derechos pueden tutelarse mediante recurso de amparo constitucional en los términos del artículo 53.2?",
+    "answers": [
+      "Todos los derechos del Título I sin excepción",
+      "Solo los derechos políticos del artículo 23",
+      "Los del artículo 14 y la Sección 1.ª del Capítulo II del Título I",
+      "Todos los principios rectores del Capítulo III"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 53.2 delimita el amparo al artículo 14 y a los derechos de la Sección 1.ª, con la objeción de conciencia en los términos previstos.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 53.2",
+    "evidence": "Amparo para artículo 14 y Sección 1.ª del Capítulo II.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-006",
+    "topic_id": "I_02",
+    "subtopic": "rights_guarantees",
+    "concept_tags": [
+      "defensor del pueblo"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cómo configura la Constitución al Defensor del Pueblo?",
+    "answers": [
+      "Como comisionado del Consejo General del Poder Judicial",
+      "Como alto comisionado de las Cortes Generales",
+      "Como órgano del Gobierno",
+      "Como sala especial del Tribunal Supremo"
+    ],
+    "correct_answer": 1,
+    "explanation": "El artículo 54 prevé un alto comisionado de las Cortes Generales para defender los derechos del Título I.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 54",
+    "evidence": "Alto comisionado de las Cortes Generales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-007",
+    "topic_id": "I_02",
+    "subtopic": "rights_suspension",
+    "concept_tags": [
+      "estado de excepción",
+      "estado de sitio"
+    ],
+    "difficulty": "hard",
+    "question": "¿En qué supuestos constitucionales puede acordarse una suspensión general de determinados derechos del artículo 55.1?",
+    "answers": [
+      "Cuando se acuerde el estado de excepción o de sitio",
+      "En cualquier estado de alarma",
+      "Siempre que lo decida el Gobierno por decreto",
+      "Solo durante una guerra declarada"
+    ],
+    "correct_answer": 0,
+    "explanation": "El artículo 55.1 vincula la suspensión general de determinados derechos a los estados de excepción o sitio.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 55.1",
+    "evidence": "Suspensión general ligada a excepción o sitio.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-008",
+    "topic_id": "I_02",
+    "subtopic": "the_crown",
+    "concept_tags": [
+      "rey"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quién es el Jefe del Estado según la Constitución?",
+    "answers": [
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso",
+      "El Presidente del Tribunal Constitucional",
+      "El Rey"
+    ],
+    "correct_answer": 3,
+    "explanation": "El artículo 56.1 establece que el Rey es el Jefe del Estado.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 56.1",
+    "evidence": "El Rey es el Jefe del Estado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-009",
+    "topic_id": "I_02",
+    "subtopic": "the_crown",
+    "concept_tags": [
+      "sucesión"
+    ],
+    "difficulty": "medium",
+    "question": "En la sucesión a la Corona, dentro del mismo grado, ¿qué preferencia establece la Constitución?",
+    "answers": [
+      "El orden decidido por las Cortes en cada sucesión",
+      "La primogenitura sin ninguna otra regla",
+      "La persona de más edad a la de menos",
+      "La persona de menos edad a la de más"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 57.1 dispone, dentro del mismo grado, preferencia de la persona de más edad a la de menos.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 57.1",
+    "evidence": "En el mismo grado, precede la persona de más edad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_02-010",
+    "topic_id": "I_02",
+    "subtopic": "the_crown",
+    "concept_tags": [
+      "regencia"
+    ],
+    "difficulty": "hard",
+    "question": "Si el Rey fuere menor de edad, ¿quién ejercerá inmediatamente la Regencia con carácter general?",
+    "answers": [
+      "Una comisión de las Cortes Generales",
+      "El padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder",
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso"
+    ],
+    "correct_answer": 1,
+    "explanation": "El artículo 59.1 establece ese orden para la Regencia por minoría de edad del Rey.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 59.1",
+    "evidence": "Regencia del padre o madre; en defecto, pariente mayor de edad más próximo.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-001",
+    "topic_id": "I_03",
+    "subtopic": "territorial_organization",
+    "concept_tags": [
+      "municipio",
+      "provincia",
+      "comunidad autónoma"
+    ],
+    "difficulty": "easy",
+    "question": "¿En qué entidades se organiza territorialmente el Estado según el artículo 137?",
+    "answers": [
+      "Municipios, provincias y comunidades autónomas",
+      "Municipios, comarcas y regiones",
+      "Provincias y comunidades autónomas únicamente",
+      "Municipios, islas y comunidades autónomas únicamente"
+    ],
+    "correct_answer": 0,
+    "explanation": "El artículo 137 enumera municipios, provincias y comunidades autónomas.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 137",
+    "evidence": "Organización territorial en municipios, provincias y comunidades autónomas.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-002",
+    "topic_id": "I_03",
+    "subtopic": "territorial_organization",
+    "concept_tags": [
+      "municipio"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué garantiza la Constitución respecto de los municipios?",
+    "answers": [
+      "Su soberanía normativa",
+      "Su independencia financiera absoluta",
+      "Su potestad legislativa",
+      "Su autonomía y personalidad jurídica plena"
+    ],
+    "correct_answer": 3,
+    "explanation": "El artículo 140 garantiza la autonomía municipal y reconoce personalidad jurídica plena a los municipios.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 140",
+    "evidence": "Autonomía municipal y personalidad jurídica plena.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-003",
+    "topic_id": "I_03",
+    "subtopic": "territorial_organization",
+    "concept_tags": [
+      "provincia"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cómo define la Constitución a la provincia?",
+    "answers": [
+      "Como comunidad autónoma uniprovincial en todo caso",
+      "Como circunscripción electoral sin funciones locales",
+      "Como entidad local con personalidad jurídica propia, agrupación de municipios y división territorial",
+      "Como órgano desconcentrado sin personalidad"
+    ],
+    "correct_answer": 2,
+    "explanation": "El artículo 141.1 define la provincia como entidad local con personalidad propia, agrupación de municipios y división territorial estatal.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 141.1",
+    "evidence": "Provincia: entidad local con personalidad propia y agrupación de municipios.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-004",
+    "topic_id": "I_03",
+    "subtopic": "autonomy_principles",
+    "concept_tags": [
+      "solidaridad"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quién garantiza la realización efectiva del principio de solidaridad territorial del artículo 2?",
+    "answers": [
+      "Las diputaciones provinciales",
+      "El Estado",
+      "Cada provincia por separado",
+      "El Senado exclusivamente"
+    ],
+    "correct_answer": 1,
+    "explanation": "El artículo 138.1 atribuye al Estado la garantía de la realización efectiva del principio de solidaridad.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 138.1",
+    "evidence": "El Estado garantiza la solidaridad territorial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-005",
+    "topic_id": "I_03",
+    "subtopic": "autonomy_principles",
+    "concept_tags": [
+      "igualdad territorial"
+    ],
+    "difficulty": "hard",
+    "question": "¿Puede una diferencia entre Estatutos de Autonomía implicar privilegios económicos o sociales?",
+    "answers": [
+      "No",
+      "Sí, si la aprueba el Senado",
+      "Sí, si afecta a una comunidad histórica",
+      "Solo en materia tributaria"
+    ],
+    "correct_answer": 0,
+    "explanation": "El artículo 138.2 prohíbe que las diferencias estatutarias impliquen privilegios económicos o sociales.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 138.2",
+    "evidence": "Las diferencias estatutarias no pueden implicar privilegios económicos o sociales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-006",
+    "topic_id": "I_03",
+    "subtopic": "castile_leon_autogovernment",
+    "concept_tags": [
+      "cortes"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué institución representa al pueblo de Castilla y León y ejerce la potestad legislativa de la Comunidad?",
+    "answers": [
+      "La Junta de Castilla y León",
+      "El Presidente de la Junta",
+      "El Consejo Consultivo",
+      "Las Cortes de Castilla y León"
+    ],
+    "correct_answer": 3,
+    "explanation": "El Estatuto atribuye a las Cortes la representación del pueblo y la potestad legislativa autonómica.",
+    "source_id": "estatuto_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+    "source_reference": "Artículos 20 y 24",
+    "evidence": "Las Cortes representan al pueblo y ejercen la potestad legislativa.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-007",
+    "topic_id": "I_03",
+    "subtopic": "castile_leon_autogovernment",
+    "concept_tags": [
+      "presidente"
+    ],
+    "difficulty": "medium",
+    "question": "¿Quién elige al Presidente de la Junta de Castilla y León?",
+    "answers": [
+      "La Junta de Castilla y León",
+      "Los ciudadanos mediante elección presidencial separada",
+      "Las Cortes de Castilla y León de entre sus miembros",
+      "El Rey directamente"
+    ],
+    "correct_answer": 2,
+    "explanation": "El Estatuto prevé que el Presidente sea elegido por las Cortes de Castilla y León de entre sus miembros.",
+    "source_id": "estatuto_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+    "source_reference": "Artículo 26",
+    "evidence": "El Presidente es elegido por las Cortes de entre sus miembros.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-008",
+    "topic_id": "I_03",
+    "subtopic": "castile_leon_autogovernment",
+    "concept_tags": [
+      "junta"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué es la Junta de Castilla y León según el Estatuto de Autonomía?",
+    "answers": [
+      "El órgano fiscalizador externo",
+      "La institución de gobierno y administración de la Comunidad",
+      "El parlamento autonómico",
+      "El órgano jurisdiccional superior"
+    ],
+    "correct_answer": 1,
+    "explanation": "El Estatuto configura la Junta como institución de gobierno y administración de la Comunidad.",
+    "source_id": "estatuto_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+    "source_reference": "Artículo 28",
+    "evidence": "La Junta es la institución de gobierno y administración autonómica.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-009",
+    "topic_id": "I_03",
+    "subtopic": "castile_leon_autogovernment",
+    "concept_tags": [
+      "instituciones"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuáles son las instituciones básicas de autogobierno de Castilla y León?",
+    "answers": [
+      "Las Cortes, el Presidente y la Junta de Castilla y León",
+      "El Tribunal Superior, las Diputaciones y la Junta",
+      "El Procurador del Común, el Consejo Consultivo y el Consejo de Cuentas",
+      "Las Cortes Generales, el Senado y la Junta"
+    ],
+    "correct_answer": 0,
+    "explanation": "El Estatuto identifica como instituciones básicas a las Cortes, el Presidente y la Junta.",
+    "source_id": "estatuto_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+    "source_reference": "Título II. Instituciones de autogobierno",
+    "evidence": "Cortes, Presidente y Junta de Castilla y León.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_03-010",
+    "topic_id": "I_03",
+    "subtopic": "castile_leon_autogovernment",
+    "concept_tags": [
+      "cortes",
+      "control"
+    ],
+    "difficulty": "hard",
+    "question": "Además de legislar, ¿qué función corresponde a las Cortes de Castilla y León respecto de la Junta?",
+    "answers": [
+      "Nombrar directamente a todos los consejeros",
+      "Ejercer la potestad reglamentaria general",
+      "Resolver recursos contencioso-administrativos",
+      "Impulsar y controlar su acción política y de gobierno"
+    ],
+    "correct_answer": 3,
+    "explanation": "El Estatuto atribuye a las Cortes funciones de impulso y control de la acción política y de gobierno de la Junta.",
+    "source_id": "estatuto_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+    "source_reference": "Artículo 23",
+    "evidence": "Las Cortes impulsan y controlan la acción política y de gobierno.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-001",
+    "topic_id": "I_04",
+    "subtopic": "eu_institutions",
+    "concept_tags": [
+      "parlamento europeo"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué institución de la Unión Europea es elegida directamente por la ciudadanía de la UE?",
+    "answers": [
+      "El Consejo Europeo",
+      "El Tribunal de Justicia",
+      "El Parlamento Europeo",
+      "La Comisión Europea"
+    ],
+    "correct_answer": 2,
+    "explanation": "El Parlamento Europeo representa a la ciudadanía de la Unión y sus miembros son elegidos directamente.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Parlamento Europeo",
+    "evidence": "Representa a la ciudadanía y es elegido directamente.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-002",
+    "topic_id": "I_04",
+    "subtopic": "eu_institutions",
+    "concept_tags": [
+      "consejo europeo"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es la función principal del Consejo Europeo?",
+    "answers": [
+      "Resolver litigios entre particulares",
+      "Definir la orientación y las prioridades políticas generales de la UE",
+      "Aprobar por sí solo todas las leyes de la UE",
+      "Ejecutar el presupuesto de la UE"
+    ],
+    "correct_answer": 1,
+    "explanation": "El Consejo Europeo marca la dirección política general y las prioridades de la Unión.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Consejo Europeo",
+    "evidence": "Define orientación y prioridades políticas generales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-003",
+    "topic_id": "I_04",
+    "subtopic": "eu_institutions",
+    "concept_tags": [
+      "consejo"
+    ],
+    "difficulty": "medium",
+    "question": "¿Quiénes integran el Consejo de la Unión Europea?",
+    "answers": [
+      "Ministros de los Estados miembros según la materia tratada",
+      "Jefes de Estado o de Gobierno",
+      "Comisarios europeos",
+      "Jueces de los Estados miembros"
+    ],
+    "correct_answer": 0,
+    "explanation": "El Consejo reúne a ministros nacionales, cuya composición cambia según la materia.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Consejo de la Unión Europea",
+    "evidence": "Reúne a ministros nacionales según el asunto tratado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-004",
+    "topic_id": "I_04",
+    "subtopic": "eu_institutions",
+    "concept_tags": [
+      "comisión"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué institución tiene, con carácter general, la iniciativa para proponer nueva legislación de la Unión Europea?",
+    "answers": [
+      "El Tribunal de Cuentas Europeo",
+      "El Banco Central Europeo",
+      "El Comité Europeo de las Regiones",
+      "La Comisión Europea"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Comisión utiliza su derecho de iniciativa legislativa para proponer nuevas leyes.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Comisión Europea",
+    "evidence": "Propone nueva legislación mediante su iniciativa legislativa.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-005",
+    "topic_id": "I_04",
+    "subtopic": "eu_institutions",
+    "concept_tags": [
+      "tribunal de justicia"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es la función esencial del Tribunal de Justicia de la Unión Europea?",
+    "answers": [
+      "Adoptar el presupuesto anual",
+      "Proponer reglamentos y directivas",
+      "Garantizar que el Derecho de la UE se interprete y aplique de forma uniforme",
+      "Dirigir la política monetaria del euro"
+    ],
+    "correct_answer": 2,
+    "explanation": "El TJUE vela por la interpretación y aplicación uniforme del Derecho de la Unión.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Tribunal de Justicia de la Unión Europea",
+    "evidence": "Garantiza interpretación y aplicación uniforme del Derecho de la UE.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-006",
+    "topic_id": "I_04",
+    "subtopic": "eu_bodies",
+    "concept_tags": [
+      "banco central europeo"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué organismo de la Unión gestiona el euro y la política monetaria de la zona del euro?",
+    "answers": [
+      "El Comité Económico y Social Europeo",
+      "El Banco Central Europeo",
+      "El Tribunal de Cuentas Europeo",
+      "El Consejo Europeo"
+    ],
+    "correct_answer": 1,
+    "explanation": "El BCE es el banco central de la zona del euro y dirige su política monetaria.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Banco Central Europeo",
+    "evidence": "Gestiona el euro y la política monetaria de la zona euro.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-007",
+    "topic_id": "I_04",
+    "subtopic": "eu_bodies",
+    "concept_tags": [
+      "tribunal de cuentas"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué cometido principal corresponde al Tribunal de Cuentas Europeo?",
+    "answers": [
+      "Controlar la correcta recaudación y utilización de los fondos de la UE",
+      "Resolver recursos de casación",
+      "Fijar los tipos de interés del euro",
+      "Representar a los gobiernos nacionales"
+    ],
+    "correct_answer": 0,
+    "explanation": "El Tribunal de Cuentas Europeo fiscaliza las finanzas de la Unión.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Tribunal de Cuentas Europeo",
+    "evidence": "Fiscaliza ingresos y gastos de la Unión Europea.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-008",
+    "topic_id": "I_04",
+    "subtopic": "eu_bodies",
+    "concept_tags": [
+      "comité económico y social"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué órgano consultivo representa a organizaciones de empresarios, trabajadores y otros grupos de interés?",
+    "answers": [
+      "El Consejo Europeo",
+      "El Banco Central Europeo",
+      "El Tribunal de Justicia",
+      "El Comité Económico y Social Europeo"
+    ],
+    "correct_answer": 3,
+    "explanation": "El CESE es un órgano consultivo que canaliza la representación de agentes económicos y sociales.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Comité Económico y Social Europeo",
+    "evidence": "Órgano consultivo de agentes económicos y sociales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-009",
+    "topic_id": "I_04",
+    "subtopic": "eu_bodies",
+    "concept_tags": [
+      "comité de las regiones"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué órgano consultivo representa a autoridades regionales y locales de la Unión Europea?",
+    "answers": [
+      "El Tribunal de Cuentas",
+      "El Consejo de Asuntos Generales",
+      "El Comité Europeo de las Regiones",
+      "El Eurogrupo"
+    ],
+    "correct_answer": 2,
+    "explanation": "El Comité Europeo de las Regiones da voz a los entes regionales y locales.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Comité Europeo de las Regiones",
+    "evidence": "Representa a autoridades regionales y locales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_04-010",
+    "topic_id": "I_04",
+    "subtopic": "institutional_roles",
+    "concept_tags": [
+      "legislación"
+    ],
+    "difficulty": "hard",
+    "question": "En el procedimiento legislativo ordinario, ¿qué dos instituciones actúan normalmente como colegisladores?",
+    "answers": [
+      "El TJUE y la Comisión",
+      "El Parlamento Europeo y el Consejo de la Unión Europea",
+      "La Comisión y el Consejo Europeo",
+      "El BCE y el Parlamento Europeo"
+    ],
+    "correct_answer": 1,
+    "explanation": "Parlamento y Consejo adoptan conjuntamente gran parte de la legislación propuesta por la Comisión.",
+    "source_id": "eu_institutions_types_es",
+    "source_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_es",
+    "source_reference": "Funciones institucionales básicas",
+    "evidence": "Parlamento y Consejo adoptan conjuntamente legislación de la UE.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-001",
+    "topic_id": "I_05",
+    "subtopic": "local_administration",
+    "concept_tags": [
+      "administración local"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuáles son entidades locales territoriales según la Ley 7/1985?",
+    "answers": [
+      "El municipio, la provincia y la isla en los archipiélagos balear y canario",
+      "Solo el municipio y la provincia",
+      "El municipio, la comarca y la mancomunidad en todo caso",
+      "La provincia y la comunidad autónoma"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 7/1985 identifica como entidades locales territoriales al municipio, la provincia y la isla en los archipiélagos.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 3.1",
+    "evidence": "Municipio, provincia e isla son entidades locales territoriales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-002",
+    "topic_id": "I_05",
+    "subtopic": "local_autonomy",
+    "concept_tags": [
+      "autonomía local"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué principio garantiza la Constitución para la gestión de los intereses de municipios y provincias?",
+    "answers": [
+      "La soberanía",
+      "La independencia normativa plena",
+      "La tutela jerárquica del Estado",
+      "La autonomía"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Constitución reconoce autonomía a municipios y provincias para la gestión de sus respectivos intereses.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículos 137, 140 y 141",
+    "evidence": "Autonomía de municipios y provincias para gestionar sus intereses.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-003",
+    "topic_id": "I_05",
+    "subtopic": "province",
+    "concept_tags": [
+      "provincia"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál es el órgano de gobierno y administración autónoma de la provincia con carácter general?",
+    "answers": [
+      "El Ayuntamiento de la capital",
+      "La Junta de Castilla y León",
+      "La Diputación Provincial u otra corporación de carácter representativo",
+      "La Delegación del Gobierno"
+    ],
+    "correct_answer": 2,
+    "explanation": "La Constitución encomienda el gobierno y administración autónoma provincial a Diputaciones u otras corporaciones representativas.",
+    "source_id": "constitucion",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "source_reference": "Artículo 141.2",
+    "evidence": "Gobierno provincial mediante Diputaciones u otras corporaciones representativas.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-004",
+    "topic_id": "I_05",
+    "subtopic": "provincial_organization",
+    "concept_tags": [
+      "diputación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué órganos existen en todas las Diputaciones provinciales según la Ley 7/1985?",
+    "answers": [
+      "Presidente y Pleno únicamente",
+      "Presidente, Vicepresidentes, Junta de Gobierno y Pleno",
+      "Presidente, Alcalde, Junta de Gobierno y Pleno",
+      "Presidente, Consejo de Gobierno y Asamblea"
+    ],
+    "correct_answer": 1,
+    "explanation": "La organización provincial común incluye Presidente, Vicepresidentes, Junta de Gobierno y Pleno.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 32.1",
+    "evidence": "Presidente, Vicepresidentes, Junta de Gobierno y Pleno.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-005",
+    "topic_id": "I_05",
+    "subtopic": "provincial_organization",
+    "concept_tags": [
+      "presidente"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál de las siguientes atribuciones corresponde en todo caso al Presidente de la Diputación?",
+    "answers": [
+      "Dirigir el gobierno y la administración de la provincia",
+      "Aprobar leyes provinciales",
+      "Nombrar a los alcaldes de los municipios",
+      "Ejercer la potestad jurisdiccional"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 7/1985 atribuye al Presidente la dirección del gobierno y la administración provincial.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 34.1.a",
+    "evidence": "El Presidente dirige el gobierno y la administración provincial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-006",
+    "topic_id": "I_05",
+    "subtopic": "provincial_powers",
+    "concept_tags": [
+      "competencias"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál de las siguientes es una competencia propia de la Diputación?",
+    "answers": [
+      "La aprobación de leyes autonómicas",
+      "La gestión de la política exterior",
+      "La administración de justicia",
+      "La asistencia y cooperación jurídica, económica y técnica a los municipios"
+    ],
+    "correct_answer": 3,
+    "explanation": "La asistencia y cooperación a municipios, especialmente los de menor capacidad, es competencia provincial propia.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 36.1.b",
+    "evidence": "Asistencia y cooperación jurídica, económica y técnica a municipios.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-007",
+    "topic_id": "I_05",
+    "subtopic": "provincial_powers",
+    "concept_tags": [
+      "coordinación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué finalidad tiene la coordinación provincial de determinados servicios municipales?",
+    "answers": [
+      "Eliminar la autonomía municipal",
+      "Concentrar todas las competencias en la capital",
+      "Asegurar su prestación integral y adecuada en el territorio provincial",
+      "Sustituir siempre a los ayuntamientos"
+    ],
+    "correct_answer": 2,
+    "explanation": "La provincia coordina servicios municipales para garantizar una prestación integral y adecuada en su territorio.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 31.2.a y 36",
+    "evidence": "Garantizar prestación integral y adecuada de servicios municipales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-008",
+    "topic_id": "I_05",
+    "subtopic": "provincial_powers",
+    "concept_tags": [
+      "plan provincial"
+    ],
+    "difficulty": "hard",
+    "question": "¿Qué instrumento provincial se vincula a la cooperación con las obras y servicios de competencia municipal?",
+    "answers": [
+      "El estatuto de autonomía provincial",
+      "El plan provincial de cooperación a las obras y servicios de competencia municipal",
+      "El plan general de ordenación urbana provincial",
+      "El presupuesto general del Estado"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Ley 7/1985 contempla el plan provincial de cooperación a obras y servicios municipales.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 36.2.a",
+    "evidence": "Plan provincial de cooperación a obras y servicios municipales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-009",
+    "topic_id": "I_05",
+    "subtopic": "local_autonomy",
+    "concept_tags": [
+      "competencias propias"
+    ],
+    "difficulty": "hard",
+    "question": "¿Cómo deben ejercerse las competencias propias de las entidades locales?",
+    "answers": [
+      "En régimen de autonomía y bajo su propia responsabilidad, atendiendo a coordinación cuando proceda",
+      "Siempre bajo instrucciones jerárquicas del Estado",
+      "Solo previa autorización de la comunidad autónoma",
+      "Exclusivamente mediante delegación"
+    ],
+    "correct_answer": 0,
+    "explanation": "Las competencias propias se ejercen con autonomía y responsabilidad propias, sin perjuicio de la coordinación legalmente prevista.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 7.2",
+    "evidence": "Competencias propias ejercidas en autonomía y responsabilidad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_05-010",
+    "topic_id": "I_05",
+    "subtopic": "local_administration",
+    "concept_tags": [
+      "municipio"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué consideración tiene el municipio en la Ley 7/1985?",
+    "answers": [
+      "Órgano periférico de la provincia",
+      "Entidad dependiente de la comunidad autónoma",
+      "Corporación sin personalidad jurídica",
+      "Entidad local básica de la organización territorial del Estado"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Ley 7/1985 califica al municipio como entidad local básica de la organización territorial del Estado.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 1.1",
+    "evidence": "Municipio como entidad básica de la organización territorial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-001",
+    "topic_id": "I_06",
+    "subtopic": "provincial_governing_bodies",
+    "concept_tags": [
+      "pleno"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quién integra el Pleno de la Diputación provincial?",
+    "answers": [
+      "El Presidente y los concejales de la capital",
+      "Solo los portavoces de los grupos políticos",
+      "El Presidente y los diputados provinciales",
+      "Los alcaldes de todos los municipios de la provincia"
+    ],
+    "correct_answer": 2,
+    "explanation": "El Pleno está constituido por el Presidente y los diputados provinciales.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 33.1",
+    "evidence": "Pleno integrado por Presidente y diputados provinciales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-002",
+    "topic_id": "I_06",
+    "subtopic": "provincial_governing_bodies",
+    "concept_tags": [
+      "junta de gobierno"
+    ],
+    "difficulty": "medium",
+    "question": "¿Quién integra la Junta de Gobierno de la Diputación?",
+    "answers": [
+      "Exclusivamente los Vicepresidentes",
+      "El Presidente y un número de diputados no superior al tercio del número legal",
+      "Todos los diputados provinciales",
+      "El Presidente y los alcaldes de municipios de más de 20.000 habitantes"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Junta de Gobierno se integra por el Presidente y diputados nombrados por él, con el límite legal establecido.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 35.1",
+    "evidence": "Presidente y diputados, con límite de un tercio del número legal.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-003",
+    "topic_id": "I_06",
+    "subtopic": "provincial_governing_bodies",
+    "concept_tags": [
+      "presidente"
+    ],
+    "difficulty": "medium",
+    "question": "¿A quién corresponde dirigir el gobierno y la administración de la provincia?",
+    "answers": [
+      "Al Presidente de la Diputación",
+      "Al Pleno exclusivamente",
+      "Al Delegado del Gobierno",
+      "Al alcalde de la capital"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entre las atribuciones del Presidente está dirigir el gobierno y administración provincial.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 34.1.a",
+    "evidence": "El Presidente dirige gobierno y administración de la provincia.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-004",
+    "topic_id": "I_06",
+    "subtopic": "corporation_constitution",
+    "concept_tags": [
+      "constitución",
+      "mesa de edad"
+    ],
+    "difficulty": "medium",
+    "question": "¿Quién preside la sesión constitutiva de una Diputación Provincial?",
+    "answers": [
+      "El diputado más votado en las elecciones municipales",
+      "El Presidente saliente de la Diputación",
+      "El Delegado del Gobierno",
+      "Una Mesa de Edad integrada por los diputados de mayor y menor edad presentes"
+    ],
+    "correct_answer": 3,
+    "explanation": "El ROF establece que la sesión constitutiva se preside por una Mesa de Edad formada por los diputados de mayor y menor edad presentes.",
+    "source_id": "rof",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-33252",
+    "source_reference": "Artículo 57.3",
+    "evidence": "Mesa de Edad con los diputados de mayor y menor edad presentes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-005",
+    "topic_id": "I_06",
+    "subtopic": "corporation_term",
+    "concept_tags": [
+      "mandato"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál es la duración ordinaria del mandato de los miembros de las corporaciones locales?",
+    "answers": [
+      "Cinco años",
+      "Seis años",
+      "Cuatro años",
+      "Tres años"
+    ],
+    "correct_answer": 2,
+    "explanation": "El mandato corporativo local coincide con el período electoral local ordinario de cuatro años.",
+    "source_id": "rof",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-33252",
+    "source_reference": "Régimen del mandato corporativo y legislación electoral",
+    "evidence": "Mandato local ordinario de cuatro años.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-006",
+    "topic_id": "I_06",
+    "subtopic": "corporation_term",
+    "concept_tags": [
+      "finalización"
+    ],
+    "difficulty": "medium",
+    "question": "Tras finalizar el mandato, ¿para qué permanecen en funciones los miembros salientes de las corporaciones locales hasta la toma de posesión de sus sucesores?",
+    "answers": [
+      "Para modificar la plantilla sin limitaciones",
+      "Para la administración ordinaria",
+      "Para adoptar cualquier acuerdo de especial trascendencia",
+      "Para aprobar libremente operaciones de crédito extraordinarias"
+    ],
+    "correct_answer": 1,
+    "explanation": "La corporación saliente permanece en funciones para la administración ordinaria hasta la nueva constitución.",
+    "source_id": "rof",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-33252",
+    "source_reference": "Régimen de cese y continuidad de la corporación",
+    "evidence": "Continuidad limitada a administración ordinaria.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-007",
+    "topic_id": "I_06",
+    "subtopic": "local_collegiate_bodies",
+    "concept_tags": [
+      "sesiones"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué clases de sesiones pueden celebrar los órganos colegiados de las entidades locales?",
+    "answers": [
+      "Ordinarias y extraordinarias, pudiendo estas últimas ser urgentes",
+      "Solo ordinarias",
+      "Ordinarias, judiciales y presupuestarias",
+      "Únicamente extraordinarias y secretas"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 7/1985 distingue sesiones ordinarias y extraordinarias, que además pueden ser urgentes.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 46.1",
+    "evidence": "Sesiones ordinarias y extraordinarias; estas pueden ser urgentes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-008",
+    "topic_id": "I_06",
+    "subtopic": "local_collegiate_bodies",
+    "concept_tags": [
+      "quórum"
+    ],
+    "difficulty": "hard",
+    "question": "Con carácter general, ¿qué quórum mínimo exige la Ley 7/1985 para la válida constitución del Pleno?",
+    "answers": [
+      "La mitad más uno en todo caso",
+      "Dos tercios del número legal",
+      "Una cuarta parte, sin mínimo",
+      "Un tercio del número legal de miembros, nunca inferior a tres"
+    ],
+    "correct_answer": 3,
+    "explanation": "La regla general exige la asistencia de un tercio del número legal, con mínimo de tres miembros.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 46.2.c",
+    "evidence": "Quórum de un tercio, con mínimo de tres miembros.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-009",
+    "topic_id": "I_06",
+    "subtopic": "local_collegiate_bodies",
+    "concept_tags": [
+      "convocatoria"
+    ],
+    "difficulty": "medium",
+    "question": "¿Con qué antelación mínima deben convocarse las sesiones ordinarias del Pleno, salvo las extraordinarias urgentes?",
+    "answers": [
+      "Cinco días naturales",
+      "Siete días hábiles",
+      "Dos días hábiles",
+      "Veinticuatro horas"
+    ],
+    "correct_answer": 2,
+    "explanation": "La convocatoria del Pleno debe notificarse con al menos dos días hábiles, salvo urgencia.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 46.2.b",
+    "evidence": "Convocatoria con dos días hábiles de antelación.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_06-010",
+    "topic_id": "I_06",
+    "subtopic": "local_collegiate_bodies",
+    "concept_tags": [
+      "votación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es la regla general para adoptar acuerdos en las corporaciones locales?",
+    "answers": [
+      "Dos tercios de los presentes",
+      "Mayoría simple de los miembros presentes",
+      "Mayoría absoluta del número legal en todos los casos",
+      "Unanimidad"
+    ],
+    "correct_answer": 1,
+    "explanation": "Como regla general, los acuerdos se adoptan por mayoría simple de los miembros presentes.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 47.1",
+    "evidence": "Regla general: mayoría simple de miembros presentes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-001",
+    "topic_id": "I_07",
+    "subtopic": "data_protection_principles",
+    "concept_tags": [
+      "licitud",
+      "lealtad",
+      "transparencia"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué tres principios deben regir el tratamiento de datos personales desde el punto de vista de su legitimidad y claridad?",
+    "answers": [
+      "Licitud, lealtad y transparencia",
+      "Publicidad, gratuidad y universalidad",
+      "Necesidad, jerarquía y competencia",
+      "Confidencialidad, secreto y anonimato exclusivamente"
+    ],
+    "correct_answer": 0,
+    "explanation": "La normativa de protección de datos exige que el tratamiento sea lícito, leal y transparente.",
+    "source_id": "rgpd_eurlex_eli",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=es",
+    "source_reference": "Artículo 5.1.a RGPD",
+    "evidence": "Tratamiento lícito, leal y transparente.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-002",
+    "topic_id": "I_07",
+    "subtopic": "data_protection_principles",
+    "concept_tags": [
+      "minimización"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué exige el principio de minimización de datos?",
+    "answers": [
+      "Que se conserven indefinidamente",
+      "Que se recojan todos los datos potencialmente útiles",
+      "Que sean siempre públicos",
+      "Que los datos sean adecuados, pertinentes y limitados a lo necesario"
+    ],
+    "correct_answer": 3,
+    "explanation": "La minimización limita los datos tratados a los adecuados, pertinentes y necesarios para la finalidad.",
+    "source_id": "rgpd_eurlex_eli",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=es",
+    "source_reference": "Artículo 5.1.c RGPD",
+    "evidence": "Datos adecuados, pertinentes y limitados a lo necesario.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-003",
+    "topic_id": "I_07",
+    "subtopic": "data_protection_principles",
+    "concept_tags": [
+      "exactitud"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué implica el principio de exactitud de los datos personales?",
+    "answers": [
+      "Anonimizarlos siempre antes de tratarlos",
+      "Publicarlos para permitir su verificación",
+      "Mantenerlos exactos y, si es necesario, actualizados",
+      "Eliminar cualquier dato al cabo de un año"
+    ],
+    "correct_answer": 2,
+    "explanation": "Los datos deben ser exactos y actualizarse cuando resulte necesario.",
+    "source_id": "rgpd_eurlex_eli",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=es",
+    "source_reference": "Artículo 5.1.d RGPD",
+    "evidence": "Datos exactos y actualizados cuando sea necesario.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-004",
+    "topic_id": "I_07",
+    "subtopic": "data_subject_rights",
+    "concept_tags": [
+      "acceso"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué permite el derecho de acceso en protección de datos?",
+    "answers": [
+      "Impedir cualquier tratamiento basado en obligación legal",
+      "Conocer si se tratan datos personales propios y acceder a la información correspondiente",
+      "Exigir siempre la supresión inmediata de cualquier dato",
+      "Modificar directamente bases de datos públicas"
+    ],
+    "correct_answer": 1,
+    "explanation": "El derecho de acceso permite obtener confirmación del tratamiento y acceder a los datos e información asociada.",
+    "source_id": "lopdgdd",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "source_reference": "Derecho de acceso",
+    "evidence": "Confirmación del tratamiento y acceso a datos propios.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-005",
+    "topic_id": "I_07",
+    "subtopic": "data_subject_rights",
+    "concept_tags": [
+      "rectificación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué derecho debe ejercerse cuando los datos personales son inexactos?",
+    "answers": [
+      "Rectificación",
+      "Portabilidad",
+      "Oposición exclusivamente",
+      "Limitación por defecto"
+    ],
+    "correct_answer": 0,
+    "explanation": "La rectificación permite corregir datos personales inexactos.",
+    "source_id": "lopdgdd",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "source_reference": "Derecho de rectificación",
+    "evidence": "Corrección de datos personales inexactos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-006",
+    "topic_id": "I_07",
+    "subtopic": "data_subject_rights",
+    "concept_tags": [
+      "supresión"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué persigue el derecho de supresión?",
+    "answers": [
+      "La publicación de los datos en formato abierto",
+      "El traslado automático de los datos a cualquier tercero",
+      "La suspensión de todas las obligaciones del responsable",
+      "La eliminación de datos cuando concurre alguno de los supuestos legales"
+    ],
+    "correct_answer": 3,
+    "explanation": "La supresión permite solicitar la eliminación de datos en los casos previstos por la normativa.",
+    "source_id": "lopdgdd",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "source_reference": "Derecho de supresión",
+    "evidence": "Eliminación de datos en los supuestos legalmente previstos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-007",
+    "topic_id": "I_07",
+    "subtopic": "active_publicity",
+    "concept_tags": [
+      "publicidad activa"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué caracteriza a la publicidad activa en materia de transparencia?",
+    "answers": [
+      "La publicación exclusiva de contratos menores",
+      "La remisión anual de información al Defensor del Pueblo",
+      "La publicación de determinada información sin necesidad de solicitud previa",
+      "La entrega de información únicamente cuando la pide un interesado"
+    ],
+    "correct_answer": 2,
+    "explanation": "La publicidad activa obliga a difundir información relevante sin esperar una solicitud individual.",
+    "source_id": "ley_19_2013",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887",
+    "source_reference": "Título I, Capítulo II",
+    "evidence": "Información publicada sin necesidad de solicitud previa.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-008",
+    "topic_id": "I_07",
+    "subtopic": "active_publicity",
+    "concept_tags": [
+      "información institucional"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué tipo de información debe publicarse dentro de las obligaciones de publicidad activa?",
+    "answers": [
+      "Solo información presupuestaria del Estado",
+      "Información institucional, organizativa y de planificación",
+      "Solo datos personales de empleados",
+      "Únicamente sentencias judiciales"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Ley 19/2013 incluye información institucional, organizativa y de planificación entre las obligaciones de publicidad activa.",
+    "source_id": "ley_19_2013",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887",
+    "source_reference": "Artículo 6",
+    "evidence": "Información institucional, organizativa y de planificación.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-009",
+    "topic_id": "I_07",
+    "subtopic": "public_information_access",
+    "concept_tags": [
+      "acceso"
+    ],
+    "difficulty": "medium",
+    "question": "¿Es necesario motivar una solicitud de acceso a la información pública?",
+    "answers": [
+      "No, aunque el solicitante puede exponer motivos que podrán tenerse en cuenta",
+      "Sí, siempre y de forma detallada",
+      "Solo si la información tiene más de cinco años",
+      "Solo cuando se presenta electrónicamente"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 19/2013 no exige motivar la solicitud de acceso.",
+    "source_id": "ley_19_2013",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887",
+    "source_reference": "Artículo 17.3",
+    "evidence": "La solicitud no necesita motivación obligatoria.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_07-010",
+    "topic_id": "I_07",
+    "subtopic": "public_information_access",
+    "concept_tags": [
+      "comisionado transparencia"
+    ],
+    "difficulty": "hard",
+    "question": "En Castilla y León, ¿a quién se atribuyen las funciones del Comisionado de Transparencia?",
+    "answers": [
+      "Al Presidente de la Junta",
+      "Al Consejo Consultivo",
+      "A la Diputación Provincial de León",
+      "Al Procurador del Común"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Ley 3/2015 atribuye al Procurador del Común las funciones de Comisionado de Transparencia.",
+    "source_id": "ley_3_2015_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3281",
+    "source_reference": "Artículo 11",
+    "evidence": "El Procurador del Común actúa como Comisionado de Transparencia.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-001",
+    "topic_id": "I_08",
+    "subtopic": "gender_equality_principles",
+    "concept_tags": [
+      "igualdad mujeres hombres"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál es la finalidad general de la Ley 1/2003 de Castilla y León?",
+    "answers": [
+      "Crear un régimen sancionador laboral estatal",
+      "Regular únicamente la violencia de género",
+      "Promover la igualdad de oportunidades entre mujeres y hombres en la Comunidad",
+      "Regular exclusivamente el acceso de mujeres al empleo público"
+    ],
+    "correct_answer": 2,
+    "explanation": "La norma autonómica establece un marco de actuación para fomentar la igualdad entre mujeres y hombres.",
+    "source_id": "ley_1_2003_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-5910",
+    "source_reference": "Artículo 1",
+    "evidence": "Marco autonómico para fomentar igualdad entre mujeres y hombres.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-002",
+    "topic_id": "I_08",
+    "subtopic": "gender_equality_principles",
+    "concept_tags": [
+      "planes de igualdad"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué instrumento prevé la Ley 1/2003 para ordenar objetivos y acciones positivas de la Junta en materia de igualdad?",
+    "answers": [
+      "Los planes urbanísticos municipales",
+      "Los Planes de Igualdad de Oportunidades entre Mujeres y Hombres",
+      "Los presupuestos provinciales",
+      "Los convenios colectivos estatales"
+    ],
+    "correct_answer": 1,
+    "explanation": "La ley prevé planes de igualdad como instrumento de programación de objetivos y acciones positivas.",
+    "source_id": "ley_1_2003_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-5910",
+    "source_reference": "Artículo 4",
+    "evidence": "Planes autonómicos con objetivos y acciones positivas de igualdad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-003",
+    "topic_id": "I_08",
+    "subtopic": "local_equality_competences",
+    "concept_tags": [
+      "entidades locales"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué órgano pueden establecer las Entidades Locales de Castilla y León como instrumento de participación y consulta en igualdad?",
+    "answers": [
+      "Consejos de la Mujer",
+      "Tribunales de Igualdad",
+      "Comisiones electorales de género",
+      "Defensorías municipales obligatorias"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 1/2003 permite a las entidades locales crear Consejos de la Mujer en su ámbito competencial.",
+    "source_id": "ley_1_2003_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-5910",
+    "source_reference": "Artículo 26",
+    "evidence": "Las entidades locales pueden establecer Consejos de la Mujer.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-004",
+    "topic_id": "I_08",
+    "subtopic": "local_equality_competences",
+    "concept_tags": [
+      "competencias locales"
+    ],
+    "difficulty": "hard",
+    "question": "¿En qué marco pueden actuar las Entidades Locales en políticas de igualdad entre mujeres y hombres?",
+    "answers": [
+      "Solo por delegación expresa del Estado",
+      "Únicamente en municipios de más de 50.000 habitantes",
+      "Exclusivamente mediante subvenciones estatales",
+      "En el de sus competencias y con los instrumentos previstos por la normativa autonómica"
+    ],
+    "correct_answer": 3,
+    "explanation": "La actuación local en igualdad se desarrolla dentro de su ámbito competencial y de cooperación institucional.",
+    "source_id": "ley_1_2003_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-5910",
+    "source_reference": "Competencias y participación local",
+    "evidence": "Actuación local dentro de su ámbito competencial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-005",
+    "topic_id": "I_08",
+    "subtopic": "disability_equality",
+    "concept_tags": [
+      "principios rectores"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué objetivo persigue la Ley 2/2013 de Castilla y León respecto de las personas con discapacidad?",
+    "answers": [
+      "Regular únicamente prestaciones económicas",
+      "Limitar la actuación a centros residenciales",
+      "Garantizar la igualdad de oportunidades y la inclusión social",
+      "Sustituir el reconocimiento estatal de discapacidad"
+    ],
+    "correct_answer": 2,
+    "explanation": "La ley autonómica promueve igualdad de oportunidades, no discriminación e inclusión de las personas con discapacidad.",
+    "source_id": "ley_2_2013_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-5998",
+    "source_reference": "Objeto y principios",
+    "evidence": "Igualdad de oportunidades e inclusión de personas con discapacidad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-006",
+    "topic_id": "I_08",
+    "subtopic": "disability_equality",
+    "concept_tags": [
+      "accesibilidad"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué idea está asociada al principio de accesibilidad universal?",
+    "answers": [
+      "Que la accesibilidad dependa de solicitud individual",
+      "Que entornos, procesos, bienes y servicios puedan ser comprendidos y utilizados por todas las personas con la mayor autonomía posible",
+      "Que todos los servicios sean gratuitos",
+      "Que solo se adapten edificios públicos nuevos"
+    ],
+    "correct_answer": 1,
+    "explanation": "La accesibilidad universal busca que entornos y servicios resulten utilizables de forma segura y autónoma por todas las personas.",
+    "source_id": "ley_2_2013_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-5998",
+    "source_reference": "Principios de igualdad y accesibilidad",
+    "evidence": "Accesibilidad para uso autónomo y seguro por todas las personas.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-007",
+    "topic_id": "I_08",
+    "subtopic": "disability_equality",
+    "concept_tags": [
+      "medios de comunicación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué deben promover los medios de comunicación que desarrollan su actividad en Castilla y León respecto de la discapacidad?",
+    "answers": [
+      "Una imagen igualitaria, plural y no estereotipada",
+      "La difusión obligatoria de datos médicos",
+      "La identificación pública de todas las personas con discapacidad",
+      "La reserva de programación exclusivamente institucional"
+    ],
+    "correct_answer": 0,
+    "explanation": "La ley exige promover una imagen igualitaria, plural y no estereotipada de las personas con discapacidad.",
+    "source_id": "ley_2_2013_cyl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-5998",
+    "source_reference": "Artículo 52",
+    "evidence": "Imagen igualitaria, plural y no estereotipada de la discapacidad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-008",
+    "topic_id": "I_08",
+    "subtopic": "lgtbi_non_discrimination",
+    "concept_tags": [
+      "estrategia estatal"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué es la Estrategia estatal para la igualdad de trato y no discriminación de las personas LGTBI?",
+    "answers": [
+      "Un registro administrativo de personas LGTBI",
+      "Un plan exclusivamente educativo de las comunidades autónomas",
+      "Una norma sancionadora municipal",
+      "El principal instrumento de colaboración territorial para impulsar las políticas básicas de la ley"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Ley 4/2023 define la Estrategia como instrumento principal de colaboración territorial en esta materia.",
+    "source_id": "ley_4_2023",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366",
+    "source_reference": "Artículo 10",
+    "evidence": "Instrumento principal de colaboración territorial para políticas LGTBI.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-009",
+    "topic_id": "I_08",
+    "subtopic": "lgtbi_non_discrimination",
+    "concept_tags": [
+      "igualdad trato"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué principio debe guiar la actuación de las Administraciones Públicas respecto de las personas LGTBI?",
+    "answers": [
+      "La exigencia de autorización judicial para cualquier medida",
+      "La actuación solo a petición de parte",
+      "La igualdad de trato y la no discriminación",
+      "La diferenciación por orientación sexual para fines estadísticos"
+    ],
+    "correct_answer": 2,
+    "explanation": "La Ley 4/2023 articula medidas públicas destinadas a garantizar igualdad real y efectiva y no discriminación.",
+    "source_id": "ley_4_2023",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366",
+    "source_reference": "Disposiciones generales",
+    "evidence": "Igualdad real y efectiva y no discriminación de personas LGTBI.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_08-010",
+    "topic_id": "I_08",
+    "subtopic": "lgtbi_non_discrimination",
+    "concept_tags": [
+      "discriminación"
+    ],
+    "difficulty": "hard",
+    "question": "Según la Ley 15/2022, ¿cómo deben actuar quienes prestan servicios de seguridad privada respecto de perfiles discriminatorios?",
+    "answers": [
+      "Solo están prohibidos en servicios públicos",
+      "No deben utilizarlos sin una justificación objetiva",
+      "Pueden utilizarlos libremente si son automatizados",
+      "Deben utilizarlos cuando lo solicite un cliente"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Ley 15/2022 exige garantizar igualdad de trato y evitar perfiles discriminatorios sin justificación objetiva.",
+    "source_id": "ley_15_2022",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
+    "source_reference": "Artículo 18",
+    "evidence": "Prohibición de perfiles discriminatorios sin justificación objetiva.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-001",
+    "topic_id": "I_09",
+    "subtopic": "interested_parties",
+    "concept_tags": [
+      "interesado"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quién tiene la condición de interesado en un procedimiento administrativo?",
+    "answers": [
+      "Quien lo promueva como titular de derechos o intereses legítimos individuales o colectivos",
+      "Cualquier ciudadano aunque no tenga relación con el procedimiento",
+      "Solo quien sea empleado público",
+      "Exclusivamente las personas jurídicas"
+    ],
+    "correct_answer": 0,
+    "explanation": "La Ley 39/2015 considera interesado, entre otros, a quien promueve el procedimiento como titular de derechos o intereses legítimos.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 4.1.a",
+    "evidence": "Interesado: promotor titular de derechos o intereses legítimos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-002",
+    "topic_id": "I_09",
+    "subtopic": "interested_parties",
+    "concept_tags": [
+      "intereses legítimos"
+    ],
+    "difficulty": "medium",
+    "question": "Si una persona cuyos intereses legítimos pueden resultar afectados se persona antes de la resolución definitiva, ¿qué condición adquiere?",
+    "answers": [
+      "La de testigo",
+      "La de órgano instructor",
+      "La de representante obligatorio",
+      "La de interesado"
+    ],
+    "correct_answer": 3,
+    "explanation": "Quien pueda resultar afectado y se persone antes de la resolución definitiva adquiere condición de interesado.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 4.1.c",
+    "evidence": "Afectado que se persona antes de resolver es interesado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-003",
+    "topic_id": "I_09",
+    "subtopic": "legal_capacity",
+    "concept_tags": [
+      "capacidad de obrar"
+    ],
+    "difficulty": "medium",
+    "question": "¿Pueden los menores tener capacidad de obrar ante las Administraciones Públicas?",
+    "answers": [
+      "Solo a partir de los dieciséis años y con abogado",
+      "Solo si son funcionarios públicos",
+      "Sí, para el ejercicio y defensa de derechos e intereses cuya actuación permita el ordenamiento sin asistencia",
+      "No, nunca"
+    ],
+    "correct_answer": 2,
+    "explanation": "La Ley 39/2015 reconoce capacidad a menores en determinados supuestos cuando el ordenamiento permite actuar sin asistencia.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 3.b",
+    "evidence": "Capacidad de menores en supuestos permitidos sin asistencia.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-004",
+    "topic_id": "I_09",
+    "subtopic": "representation",
+    "concept_tags": [
+      "representación"
+    ],
+    "difficulty": "easy",
+    "question": "¿Puede un interesado actuar por medio de representante ante las Administraciones Públicas?",
+    "answers": [
+      "Solo para presentar recursos",
+      "Sí, entendiéndose con el representante las actuaciones administrativas salvo manifestación expresa en contra",
+      "No, salvo en procedimientos sancionadores",
+      "Solo si el representante es abogado"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Ley 39/2015 permite actuar mediante representante y relacionarse con él salvo oposición expresa del interesado.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 5.1",
+    "evidence": "Se puede actuar mediante representante.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-005",
+    "topic_id": "I_09",
+    "subtopic": "representation",
+    "concept_tags": [
+      "acreditación"
+    ],
+    "difficulty": "hard",
+    "question": "¿En qué actuaciones debe acreditarse la representación?",
+    "answers": [
+      "Para formular solicitudes, presentar declaraciones o comunicaciones, interponer recursos, desistir y renunciar a derechos",
+      "En cualquier consulta informativa",
+      "Solo para recibir notificaciones",
+      "Únicamente en comparecencias presenciales"
+    ],
+    "correct_answer": 0,
+    "explanation": "La ley exige acreditar representación para actos de especial trascendencia como solicitudes, recursos, desistimiento o renuncia.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 5.3",
+    "evidence": "Representación acreditada para solicitudes, recursos, desistimiento y renuncia.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-006",
+    "topic_id": "I_09",
+    "subtopic": "terms_and_deadlines",
+    "concept_tags": [
+      "días hábiles"
+    ],
+    "difficulty": "easy",
+    "question": "Cuando un plazo se señala por días y la ley no indica otra cosa, ¿cómo se computan?",
+    "answers": [
+      "Como días naturales",
+      "Excluyendo solo domingos",
+      "Incluyendo sábados y excluyendo festivos",
+      "Como días hábiles, excluyendo sábados, domingos y festivos"
+    ],
+    "correct_answer": 3,
+    "explanation": "La Ley 39/2015 establece como regla que los plazos por días se entienden hábiles salvo previsión distinta.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 30.2",
+    "evidence": "Días hábiles: no cuentan sábados, domingos ni festivos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-007",
+    "topic_id": "I_09",
+    "subtopic": "deadline_calculation",
+    "concept_tags": [
+      "inicio plazo"
+    ],
+    "difficulty": "medium",
+    "question": "Si un plazo se fija en días, ¿desde cuándo comienza a contarse con carácter general?",
+    "answers": [
+      "Desde el primer día del mes siguiente",
+      "Desde que el interesado confirme la recepción",
+      "Desde el día siguiente al de la notificación o publicación",
+      "Desde el mismo día de la notificación"
+    ],
+    "correct_answer": 2,
+    "explanation": "El cómputo comienza el día siguiente al de la notificación, publicación o silencio correspondiente.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 30.3",
+    "evidence": "El plazo por días empieza al día siguiente de la notificación.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-008",
+    "topic_id": "I_09",
+    "subtopic": "deadline_calculation",
+    "concept_tags": [
+      "meses años"
+    ],
+    "difficulty": "hard",
+    "question": "Si un plazo fijado en meses vence en un mes que no tiene día equivalente al inicial, ¿cuándo expira?",
+    "answers": [
+      "Se prorroga automáticamente diez días",
+      "El último día del mes",
+      "El primer día del mes siguiente",
+      "El día 28 en todo caso"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cuando no existe día equivalente, el plazo expira el último día del mes.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 30.4",
+    "evidence": "Sin día equivalente, vence el último día del mes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-009",
+    "topic_id": "I_09",
+    "subtopic": "deadline_extension",
+    "concept_tags": [
+      "ampliación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es el límite general de una ampliación de plazo concedida por la Administración?",
+    "answers": [
+      "No puede exceder de la mitad del plazo inicial",
+      "Puede duplicar siempre el plazo inicial",
+      "No puede superar cinco días",
+      "No existe límite legal"
+    ],
+    "correct_answer": 0,
+    "explanation": "La ampliación, si procede, no puede exceder de la mitad del plazo concedido inicialmente.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 32.1",
+    "evidence": "Ampliación máxima: mitad del plazo inicial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_09-010",
+    "topic_id": "I_09",
+    "subtopic": "notifications",
+    "concept_tags": [
+      "contenido notificación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué debe contener una notificación administrativa, entre otros elementos?",
+    "answers": [
+      "Solo un resumen del acto",
+      "Únicamente la fecha de emisión",
+      "La firma del interesado como requisito de validez",
+      "El texto íntegro de la resolución y la indicación de recursos procedentes"
+    ],
+    "correct_answer": 3,
+    "explanation": "La notificación debe incluir el texto íntegro y la información necesaria sobre recursos.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 40.2",
+    "evidence": "Texto íntegro e indicación de recursos procedentes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-001",
+    "topic_id": "I_10",
+    "subtopic": "procedure_initiation",
+    "concept_tags": [
+      "iniciación oficio"
+    ],
+    "difficulty": "easy",
+    "question": "¿De qué formas puede iniciarse de oficio un procedimiento administrativo?",
+    "answers": [
+      "Únicamente por acuerdo del Consejo de Ministros",
+      "Solo por petición del interesado",
+      "Por propia iniciativa, orden superior, petición razonada de otros órganos o denuncia",
+      "Solo por denuncia"
+    ],
+    "correct_answer": 2,
+    "explanation": "La Ley 39/2015 enumera cuatro vías de iniciación de oficio.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 58",
+    "evidence": "Propia iniciativa, orden superior, petición razonada o denuncia.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-002",
+    "topic_id": "I_10",
+    "subtopic": "procedure_initiation",
+    "concept_tags": [
+      "solicitud"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué dato debe contener una solicitud de iniciación formulada por un interesado?",
+    "answers": [
+      "La firma de dos testigos",
+      "Hechos, razones y petición en que se concrete con claridad la solicitud",
+      "Una propuesta de resolución obligatoria",
+      "La identificación del funcionario instructor"
+    ],
+    "correct_answer": 1,
+    "explanation": "La solicitud debe expresar hechos, razones y petición con claridad, además de los demás datos legales.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 66.1.c",
+    "evidence": "Hechos, razones y petición claramente concretada.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-003",
+    "topic_id": "I_10",
+    "subtopic": "procedure_ordering",
+    "concept_tags": [
+      "impulso"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cómo se impulsará el procedimiento administrativo?",
+    "answers": [
+      "De oficio en todos sus trámites y a través de medios electrónicos, respetando transparencia y publicidad",
+      "Solo a instancia del interesado",
+      "Exclusivamente en soporte papel",
+      "Por orden del superior jerárquico en cada trámite"
+    ],
+    "correct_answer": 0,
+    "explanation": "La ordenación se rige por impulso de oficio y uso de medios electrónicos.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 71.1",
+    "evidence": "Impulso de oficio y por medios electrónicos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-004",
+    "topic_id": "I_10",
+    "subtopic": "procedure_ordering",
+    "concept_tags": [
+      "orden despacho"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué criterio general debe seguirse en el despacho de expedientes de homogénea naturaleza?",
+    "answers": [
+      "La antigüedad del interesado",
+      "La cuantía económica del expediente",
+      "El orden que elija libremente el instructor",
+      "El orden riguroso de incoación, salvo orden motivada en contrario"
+    ],
+    "correct_answer": 3,
+    "explanation": "La ley establece el orden de incoación para asuntos homogéneos, salvo decisión motivada.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 71.2",
+    "evidence": "Despacho por orden de incoación salvo orden motivada.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-005",
+    "topic_id": "I_10",
+    "subtopic": "procedure_instruction",
+    "concept_tags": [
+      "prueba"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuándo acordará el instructor la apertura de un período de prueba?",
+    "answers": [
+      "Solo si lo solicita un testigo",
+      "Nunca en procedimientos electrónicos",
+      "Cuando la Administración no tenga por ciertos los hechos alegados o lo exija la naturaleza del procedimiento",
+      "En todos los procedimientos sin excepción"
+    ],
+    "correct_answer": 2,
+    "explanation": "La prueba se abre cuando los hechos no se tienen por ciertos o la naturaleza del procedimiento lo exige.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 77.2",
+    "evidence": "Prueba cuando los hechos no se tienen por ciertos o resulte necesaria.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-006",
+    "topic_id": "I_10",
+    "subtopic": "procedure_instruction",
+    "concept_tags": [
+      "audiencia"
+    ],
+    "difficulty": "medium",
+    "question": "¿En qué momento se realiza, con carácter general, el trámite de audiencia?",
+    "answers": [
+      "Solo durante la fase de recurso",
+      "Instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución",
+      "Antes de iniciar el procedimiento",
+      "Después de dictarse la resolución"
+    ],
+    "correct_answer": 1,
+    "explanation": "La audiencia se sitúa al final de la instrucción, antes de la propuesta de resolución.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 82.1",
+    "evidence": "Audiencia tras instrucción y antes de propuesta de resolución.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-007",
+    "topic_id": "I_10",
+    "subtopic": "procedure_termination",
+    "concept_tags": [
+      "formas terminación"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál de las siguientes es una forma de terminación del procedimiento?",
+    "answers": [
+      "La resolución",
+      "La denuncia",
+      "La recusación",
+      "La abstención"
+    ],
+    "correct_answer": 0,
+    "explanation": "La resolución es una de las formas legales de terminación, junto con desistimiento, renuncia y caducidad, entre otras.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 84.1",
+    "evidence": "La resolución es forma de terminación.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-008",
+    "topic_id": "I_10",
+    "subtopic": "withdrawal_and_waiver",
+    "concept_tags": [
+      "desistimiento",
+      "renuncia"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué diferencia básica existe entre desistimiento y renuncia?",
+    "answers": [
+      "Son exactamente la misma figura",
+      "La renuncia solo puede hacerla la Administración",
+      "El desistimiento extingue siempre el derecho material",
+      "El desistimiento recae sobre la solicitud; la renuncia, cuando sea posible, sobre el derecho"
+    ],
+    "correct_answer": 3,
+    "explanation": "La ley distingue desistir de la solicitud y renunciar al derecho cuando el ordenamiento lo permite.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 94.1",
+    "evidence": "Desistimiento de solicitud; renuncia a derechos cuando sea posible.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-009",
+    "topic_id": "I_10",
+    "subtopic": "withdrawal_and_waiver",
+    "concept_tags": [
+      "forma"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cómo pueden realizarse el desistimiento y la renuncia?",
+    "answers": [
+      "Únicamente por escritura pública",
+      "Solo por correo certificado",
+      "Por cualquier medio que permita su constancia y reúna las firmas exigibles",
+      "Solo mediante comparecencia presencial"
+    ],
+    "correct_answer": 2,
+    "explanation": "La ley admite cualquier medio que deje constancia y cumpla los requisitos de firma.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 94.3",
+    "evidence": "Cualquier medio que deje constancia y contenga firmas procedentes.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_10-010",
+    "topic_id": "I_10",
+    "subtopic": "expiration",
+    "concept_tags": [
+      "caducidad"
+    ],
+    "difficulty": "hard",
+    "question": "En procedimientos iniciados a solicitud del interesado, ¿cuándo puede producirse la caducidad por paralización imputable a este?",
+    "answers": [
+      "Solo por resolución judicial",
+      "Tras advertencia de la Administración y transcurridos tres meses sin reanudar la tramitación",
+      "Automáticamente a los diez días",
+      "A los seis meses sin necesidad de advertencia"
+    ],
+    "correct_answer": 1,
+    "explanation": "La Administración debe advertir al interesado y, si pasan tres meses sin actividad necesaria, puede declarar la caducidad.",
+    "source_id": "ley_39_2015",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "source_reference": "Artículo 95.1",
+    "evidence": "Advertencia y tres meses de paralización imputable al interesado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-001",
+    "topic_id": "I_11",
+    "subtopic": "ebep_scope",
+    "concept_tags": [
+      "empleado público"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quiénes son empleados públicos según el TREBEP?",
+    "answers": [
+      "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+      "Solo los funcionarios de carrera",
+      "Únicamente el personal laboral fijo",
+      "Toda persona que contrata con la Administración"
+    ],
+    "correct_answer": 0,
+    "explanation": "El TREBEP define empleado público por el desempeño de funciones retribuidas al servicio de intereses generales.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 8.1",
+    "evidence": "Funciones retribuidas en Administraciones Públicas al servicio de intereses generales.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-002",
+    "topic_id": "I_11",
+    "subtopic": "ebep_scope",
+    "concept_tags": [
+      "clases de personal"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál de estas categorías figura entre las clases de empleados públicos del TREBEP?",
+    "answers": [
+      "Contratistas administrativos",
+      "Concejales",
+      "Personal de empresas concesionarias",
+      "Funcionarios interinos"
+    ],
+    "correct_answer": 3,
+    "explanation": "El artículo 8 incluye funcionarios de carrera e interinos, personal laboral y eventual.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 8.2",
+    "evidence": "Incluye funcionarios interinos entre las clases de empleados públicos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-003",
+    "topic_id": "I_11",
+    "subtopic": "service_acquisition",
+    "concept_tags": [
+      "adquisición"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es uno de los requisitos para adquirir la condición de funcionario de carrera?",
+    "answers": [
+      "Ser mayor de treinta años",
+      "Tener diez años de experiencia previa",
+      "Nombramiento por el órgano o autoridad competente y publicación",
+      "Superar únicamente una entrevista"
+    ],
+    "correct_answer": 2,
+    "explanation": "La adquisición exige superar el proceso selectivo, nombramiento, acatamiento del ordenamiento y toma de posesión.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 62.1",
+    "evidence": "Nombramiento competente y publicación, entre otros requisitos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-004",
+    "topic_id": "I_11",
+    "subtopic": "service_acquisition",
+    "concept_tags": [
+      "toma posesión"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué debe hacer la persona nombrada funcionario de carrera dentro del plazo establecido?",
+    "answers": [
+      "Renunciar a cualquier empleo privado de por vida",
+      "Tomar posesión",
+      "Solicitar una excedencia",
+      "Afiliarse a un sindicato"
+    ],
+    "correct_answer": 1,
+    "explanation": "La toma de posesión es requisito final de adquisición de la condición de funcionario de carrera.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 62.1.d",
+    "evidence": "Toma de posesión dentro del plazo establecido.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-005",
+    "topic_id": "I_11",
+    "subtopic": "service_loss",
+    "concept_tags": [
+      "pérdida"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál de las siguientes es causa de pérdida de la condición de funcionario de carrera?",
+    "answers": [
+      "La renuncia a la condición de funcionario",
+      "Un cambio de puesto",
+      "Una comisión de servicios",
+      "Un traslado voluntario"
+    ],
+    "correct_answer": 0,
+    "explanation": "El TREBEP enumera la renuncia entre las causas de pérdida de la condición funcionarial.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 63",
+    "evidence": "La renuncia es causa de pérdida de la condición de funcionario.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-006",
+    "topic_id": "I_11",
+    "subtopic": "service_loss",
+    "concept_tags": [
+      "jubilación"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué efecto tiene la jubilación total del funcionario?",
+    "answers": [
+      "Solo suspende temporalmente la relación",
+      "No afecta a la relación de servicio",
+      "Convierte al funcionario en personal eventual",
+      "Produce la pérdida de la condición de funcionario de carrera"
+    ],
+    "correct_answer": 3,
+    "explanation": "La jubilación total figura entre las causas legales de pérdida de la condición.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 63.c",
+    "evidence": "La jubilación total causa pérdida de la condición funcionarial.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-007",
+    "topic_id": "I_11",
+    "subtopic": "employee_rights_duties",
+    "concept_tags": [
+      "derechos"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es un derecho individual de los empleados públicos?",
+    "answers": [
+      "Negarse a toda orden de servicio",
+      "Elegir libremente el órgano al que pertenecer",
+      "La progresión en la carrera profesional y promoción interna conforme a los principios legales",
+      "Fijar unilateralmente sus retribuciones"
+    ],
+    "correct_answer": 2,
+    "explanation": "El TREBEP reconoce carrera profesional y promoción interna como derecho individual.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 14.c",
+    "evidence": "Derecho a carrera profesional y promoción interna.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-008",
+    "topic_id": "I_11",
+    "subtopic": "employee_rights_duties",
+    "concept_tags": [
+      "deberes",
+      "código conducta"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué principio integra el código de conducta de los empleados públicos?",
+    "answers": [
+      "Reserva de información solo cuando convenga al empleado",
+      "Objetividad, integridad, neutralidad y responsabilidad, entre otros",
+      "Obediencia política a un partido",
+      "Prioridad de intereses privados"
+    ],
+    "correct_answer": 1,
+    "explanation": "El TREBEP enumera principios éticos y de conducta como objetividad, integridad, neutralidad y responsabilidad.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 52",
+    "evidence": "Código de conducta basado en objetividad, integridad, neutralidad y responsabilidad.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-009",
+    "topic_id": "I_11",
+    "subtopic": "remuneration",
+    "concept_tags": [
+      "retribuciones básicas"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué conceptos integran las retribuciones básicas de los funcionarios?",
+    "answers": [
+      "Sueldo y trienios asignados al subgrupo o grupo correspondiente",
+      "Productividad y gratificaciones",
+      "Complemento específico y destino",
+      "Indemnizaciones por razón del servicio"
+    ],
+    "correct_answer": 0,
+    "explanation": "El TREBEP vincula las retribuciones básicas al sueldo y trienios correspondientes al grupo o subgrupo.",
+    "source_id": "trebep",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "source_reference": "Artículo 23",
+    "evidence": "Retribuciones básicas: sueldo y trienios.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_11-010",
+    "topic_id": "I_11",
+    "subtopic": "local_public_staff",
+    "concept_tags": [
+      "personal local"
+    ],
+    "difficulty": "hard",
+    "question": "¿Qué normativa básica rige al personal funcionario de las entidades locales?",
+    "answers": [
+      "Solo los reglamentos municipales",
+      "Exclusivamente el Estatuto de los Trabajadores",
+      "Únicamente la Ley de Contratos del Sector Público",
+      "La legislación estatal básica de función pública y la legislación autonómica aplicable, además de la normativa local específica"
+    ],
+    "correct_answer": 3,
+    "explanation": "El régimen local remite a la normativa básica estatal y autonómica de función pública, con las especialidades locales.",
+    "source_id": "lbrl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "source_reference": "Artículo 92 y ss.",
+    "evidence": "Personal local sujeto a normativa básica de función pública y régimen local.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-001",
+    "topic_id": "I_12",
+    "subtopic": "contract_types",
+    "concept_tags": [
+      "obras"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál es el objeto típico de un contrato de obras?",
+    "answers": [
+      "La prestación de actividad sin resultado material posible",
+      "La gestión de un servicio con riesgo operacional necesariamente",
+      "La ejecución de una obra, sola o conjuntamente con su proyecto, o trabajos que modifiquen la forma o sustancia del terreno o vuelo",
+      "La adquisición de bienes muebles únicamente"
+    ],
+    "correct_answer": 2,
+    "explanation": "La LCSP define el contrato de obras por la ejecución de una obra o trabajos de construcción o ingeniería civil.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 13",
+    "evidence": "Contrato de obras: ejecución de obra o trabajos de construcción.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-002",
+    "topic_id": "I_12",
+    "subtopic": "contract_types",
+    "concept_tags": [
+      "suministro"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué caracteriza al contrato de suministro?",
+    "answers": [
+      "La contratación de personal laboral",
+      "La adquisición, arrendamiento financiero o arrendamiento de productos o bienes muebles",
+      "La construcción de una infraestructura",
+      "La explotación de un servicio con riesgo operacional"
+    ],
+    "correct_answer": 1,
+    "explanation": "El suministro tiene por objeto, con carácter general, adquirir o arrendar bienes muebles o productos.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 16",
+    "evidence": "Suministro: adquisición o arrendamiento de bienes muebles o productos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-003",
+    "topic_id": "I_12",
+    "subtopic": "contract_types",
+    "concept_tags": [
+      "servicios"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza al contrato de servicios?",
+    "answers": [
+      "Prestaciones de hacer dirigidas a obtener un resultado distinto de una obra o suministro",
+      "Transferencia de la propiedad de un inmueble",
+      "Ejecución exclusiva de obra pública",
+      "Concesión obligatoria con riesgo operacional"
+    ],
+    "correct_answer": 0,
+    "explanation": "El contrato de servicios comprende prestaciones de hacer distintas de obras y suministros.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 17",
+    "evidence": "Servicios: prestaciones de hacer distintas de obra o suministro.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-004",
+    "topic_id": "I_12",
+    "subtopic": "contract_types",
+    "concept_tags": [
+      "concesión"
+    ],
+    "difficulty": "hard",
+    "question": "¿Qué elemento distingue esencialmente una concesión de obras o servicios?",
+    "answers": [
+      "La duración inferior a un año",
+      "La ausencia de contraprestación",
+      "La obligación de que el contratista sea una Administración",
+      "La transferencia al concesionario de un riesgo operacional"
+    ],
+    "correct_answer": 3,
+    "explanation": "La concesión implica que el contratista asuma riesgo operacional ligado a la explotación.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículos 14 y 15",
+    "evidence": "Concesión vinculada a transferencia de riesgo operacional.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-005",
+    "topic_id": "I_12",
+    "subtopic": "contract_preparation",
+    "concept_tags": [
+      "necesidad",
+      "idoneidad"
+    ],
+    "difficulty": "medium",
+    "question": "Antes de celebrar un contrato, ¿qué debe determinarse respecto de la necesidad pública?",
+    "answers": [
+      "Únicamente la duración del contrato",
+      "La identidad del adjudicatario",
+      "La naturaleza y extensión de las necesidades y la idoneidad del objeto y contenido para satisfacerlas",
+      "Solo el precio máximo"
+    ],
+    "correct_answer": 2,
+    "explanation": "La LCSP exige justificar previamente necesidad e idoneidad del contrato.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 28",
+    "evidence": "Justificación de necesidad e idoneidad del contrato.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-006",
+    "topic_id": "I_12",
+    "subtopic": "contract_preparation",
+    "concept_tags": [
+      "objeto"
+    ],
+    "difficulty": "medium",
+    "question": "¿Puede fraccionarse un contrato para disminuir su cuantía y eludir requisitos de publicidad o adjudicación?",
+    "answers": [
+      "Solo en contratos de servicios",
+      "No",
+      "Sí, si cada parte es inferior al contrato menor",
+      "Sí, con autorización del interventor"
+    ],
+    "correct_answer": 1,
+    "explanation": "La LCSP prohíbe fraccionar el contrato con la finalidad de eludir publicidad o procedimiento.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 99.2",
+    "evidence": "Prohibición de fraccionar para eludir publicidad o procedimiento.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-007",
+    "topic_id": "I_12",
+    "subtopic": "contract_file",
+    "concept_tags": [
+      "expediente"
+    ],
+    "difficulty": "easy",
+    "question": "¿Quién inicia el expediente de contratación?",
+    "answers": [
+      "El órgano de contratación",
+      "El adjudicatario",
+      "El interventor exclusivamente",
+      "La mesa de contratación"
+    ],
+    "correct_answer": 0,
+    "explanation": "La tramitación del expediente se inicia por el órgano de contratación motivando la necesidad.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 116.1",
+    "evidence": "El órgano de contratación inicia el expediente.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-008",
+    "topic_id": "I_12",
+    "subtopic": "contract_file",
+    "concept_tags": [
+      "pliegos"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué documento define las cláusulas jurídicas y administrativas particulares que regirán el contrato?",
+    "answers": [
+      "El acta de recepción",
+      "La factura del contratista",
+      "El informe de fiscalización anual",
+      "El pliego de cláusulas administrativas particulares"
+    ],
+    "correct_answer": 3,
+    "explanation": "El PCAP fija los pactos y condiciones definidores de derechos y obligaciones de las partes.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 122",
+    "evidence": "PCAP fija condiciones administrativas particulares del contrato.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-009",
+    "topic_id": "I_12",
+    "subtopic": "contract_award",
+    "concept_tags": [
+      "adjudicación",
+      "criterios"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál es la regla general para adjudicar los contratos públicos?",
+    "answers": [
+      "Adjudicar por sorteo",
+      "Elegir al licitador con mayor antigüedad",
+      "Utilizar una pluralidad de criterios basados en la mejor relación calidad-precio",
+      "Elegir siempre la oferta de menor precio"
+    ],
+    "correct_answer": 2,
+    "explanation": "La LCSP establece como regla general la adjudicación conforme a la mejor relación calidad-precio.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 145.1",
+    "evidence": "Adjudicación basada en mejor relación calidad-precio.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_12-010",
+    "topic_id": "I_12",
+    "subtopic": "minor_contract",
+    "concept_tags": [
+      "contrato menor"
+    ],
+    "difficulty": "hard",
+    "question": "¿Cuáles son, con carácter general, los umbrales de valor estimado para considerar menor un contrato?",
+    "answers": [
+      "Menos de 100.000 euros en obras y 50.000 en servicios",
+      "Menos de 40.000 euros en obras y menos de 15.000 euros en suministros o servicios",
+      "Hasta 50.000 euros en cualquier contrato",
+      "Menos de 15.000 euros en obras y 40.000 en servicios"
+    ],
+    "correct_answer": 1,
+    "explanation": "La LCSP fija los umbrales generales de contrato menor en 40.000 euros para obras y 15.000 para suministros o servicios.",
+    "source_id": "lcsp",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "source_reference": "Artículo 118.1",
+    "evidence": "Menor: obras <40.000; suministros o servicios <15.000 euros.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-001",
+    "topic_id": "I_13",
+    "subtopic": "local_treasury_resources",
+    "concept_tags": [
+      "recursos"
+    ],
+    "difficulty": "easy",
+    "question": "¿Cuál de los siguientes es un recurso de las Haciendas Locales?",
+    "answers": [
+      "Los ingresos procedentes de su patrimonio y demás de Derecho privado",
+      "Las sanciones penales impuestas por los tribunales",
+      "Los aranceles aduaneros de la Unión Europea",
+      "Las cotizaciones a la Seguridad Social"
+    ],
+    "correct_answer": 0,
+    "explanation": "La LRHL incluye entre los recursos locales los ingresos patrimoniales y demás de Derecho privado.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 2.1.a",
+    "evidence": "Ingresos patrimoniales y demás de Derecho privado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-002",
+    "topic_id": "I_13",
+    "subtopic": "local_treasury_resources",
+    "concept_tags": [
+      "recursos"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cuál de estos recursos tiene naturaleza tributaria local?",
+    "answers": [
+      "Subvenciones únicamente",
+      "Operaciones de crédito únicamente",
+      "Ingresos patrimoniales exclusivamente",
+      "Tasas, contribuciones especiales e impuestos"
+    ],
+    "correct_answer": 3,
+    "explanation": "Los tributos propios locales comprenden tasas, contribuciones especiales e impuestos.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 2.1.b",
+    "evidence": "Tributos propios: tasas, contribuciones especiales e impuestos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-003",
+    "topic_id": "I_13",
+    "subtopic": "public_law_income",
+    "concept_tags": [
+      "ingresos derecho público"
+    ],
+    "difficulty": "medium",
+    "question": "¿Cómo se exigen los tributos y demás ingresos de Derecho público de las entidades locales cuando no se pagan voluntariamente?",
+    "answers": [
+      "Por arbitraje obligatorio",
+      "Por mediación privada",
+      "Mediante el procedimiento administrativo de apremio",
+      "Mediante demanda civil ordinaria exclusivamente"
+    ],
+    "correct_answer": 2,
+    "explanation": "Las entidades locales disponen de prerrogativas de recaudación ejecutiva para sus ingresos de Derecho público.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 2.2",
+    "evidence": "Ingresos públicos exigibles por vía administrativa de apremio.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-004",
+    "topic_id": "I_13",
+    "subtopic": "private_law_income",
+    "concept_tags": [
+      "ingresos derecho privado"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué ejemplo encaja mejor como ingreso local de Derecho privado?",
+    "answers": [
+      "Una contribución especial por una obra pública",
+      "La renta obtenida por el arrendamiento de un inmueble patrimonial de la entidad local",
+      "El Impuesto sobre Bienes Inmuebles",
+      "Una tasa por ocupación del dominio público"
+    ],
+    "correct_answer": 1,
+    "explanation": "Los rendimientos o productos de bienes patrimoniales tienen naturaleza de ingresos de Derecho privado.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 3",
+    "evidence": "Rendimientos de bienes patrimoniales son ingresos de Derecho privado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-005",
+    "topic_id": "I_13",
+    "subtopic": "private_law_income",
+    "concept_tags": [
+      "patrimonio"
+    ],
+    "difficulty": "hard",
+    "question": "¿Qué régimen general se aplica a la efectividad de los derechos privados de la Hacienda local?",
+    "answers": [
+      "Las normas y procedimientos de Derecho privado",
+      "El procedimiento de apremio tributario en todo caso",
+      "La jurisdicción penal",
+      "La normativa de contratación pública exclusivamente"
+    ],
+    "correct_answer": 0,
+    "explanation": "Los derechos de naturaleza privada se hacen efectivos conforme a las reglas del Derecho privado.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 4",
+    "evidence": "Derechos privados sometidos a normas y procedimientos de Derecho privado.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-006",
+    "topic_id": "I_13",
+    "subtopic": "local_budget",
+    "concept_tags": [
+      "presupuesto"
+    ],
+    "difficulty": "easy",
+    "question": "¿Qué integra el presupuesto general de una entidad local?",
+    "answers": [
+      "Solo el presupuesto del ayuntamiento o diputación",
+      "Únicamente los gastos de personal",
+      "Solo los ingresos tributarios",
+      "Los presupuestos de la propia entidad, sus organismos autónomos y los estados de previsión de determinadas sociedades mercantiles dependientes"
+    ],
+    "correct_answer": 3,
+    "explanation": "El presupuesto general integra los presupuestos y estados de previsión de los entes dependientes previstos legalmente.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 164",
+    "evidence": "Presupuesto general integra entidad y entes dependientes previstos.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-007",
+    "topic_id": "I_13",
+    "subtopic": "local_budget",
+    "concept_tags": [
+      "principio anualidad"
+    ],
+    "difficulty": "medium",
+    "question": "¿A qué período se refiere el ejercicio presupuestario de las entidades locales?",
+    "answers": [
+      "Al curso político",
+      "Al período entre elecciones locales",
+      "Al año natural",
+      "A dos años naturales"
+    ],
+    "correct_answer": 2,
+    "explanation": "El ejercicio presupuestario coincide con el año natural.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 163",
+    "evidence": "Ejercicio presupuestario coincide con año natural.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-008",
+    "topic_id": "I_13",
+    "subtopic": "budget_preparation_approval",
+    "concept_tags": [
+      "elaboración"
+    ],
+    "difficulty": "medium",
+    "question": "¿Quién forma el presupuesto general de la entidad local?",
+    "answers": [
+      "La comunidad autónoma",
+      "Su presidente",
+      "El Pleno",
+      "El interventor"
+    ],
+    "correct_answer": 1,
+    "explanation": "Corresponde al presidente de la entidad formar el presupuesto general a partir de la documentación legalmente prevista.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 168.1",
+    "evidence": "El presidente forma el presupuesto general.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-009",
+    "topic_id": "I_13",
+    "subtopic": "budget_preparation_approval",
+    "concept_tags": [
+      "aprobación inicial"
+    ],
+    "difficulty": "medium",
+    "question": "¿Qué órgano aprueba inicialmente el presupuesto general de una entidad local?",
+    "answers": [
+      "El Pleno de la corporación",
+      "El Presidente por decreto",
+      "La Junta de Gobierno siempre",
+      "La Intervención"
+    ],
+    "correct_answer": 0,
+    "explanation": "El presupuesto se somete al Pleno para su aprobación inicial.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 168.4",
+    "evidence": "Aprobación inicial corresponde al Pleno.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  },
+  {
+    "id": "VER-I_13-010",
+    "topic_id": "I_13",
+    "subtopic": "budget_preparation_approval",
+    "concept_tags": [
+      "exposición pública"
+    ],
+    "difficulty": "hard",
+    "question": "Tras la aprobación inicial del presupuesto local, ¿durante cuánto tiempo se expone al público para reclamaciones?",
+    "answers": [
+      "Diez días",
+      "Un mes",
+      "Veinte días hábiles",
+      "Quince días"
+    ],
+    "correct_answer": 3,
+    "explanation": "La LRHL prevé exposición pública por quince días, durante los cuales pueden presentarse reclamaciones.",
+    "source_id": "trlrhl",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "source_reference": "Artículo 169.1",
+    "evidence": "Exposición pública del presupuesto durante quince días.",
+    "validation_result": "verified",
+    "validation_reasons": []
+  }
+]
