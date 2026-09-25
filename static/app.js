@@ -2,7 +2,7 @@ const BANKS = [
   './questions/all_general_verified_130.json',
   './questions/all_technical_verified_330.json',
 ];
-const STORAGE_KEY = 'oposicion-29770-stats-v1';
+const STORAGE_KEY = 'tests-estudio-stats-v1';
 
 let bank = [];
 let questions = [];
