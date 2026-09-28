@@ -1,6 +1,7 @@
 const BANKS = [
   './questions/all_general_verified_130.json',
   './questions/all_technical_verified_330.json',
+  './questions/all_hard_verified_900.json',
 ];
 const STORAGE_KEY = 'tests-estudio-stats-v1';
 
@@ -74,7 +75,7 @@ async function loadBank() {
     if (!res.ok) throw new Error(`No se pudo cargar ${path}`);
     return res.json();
   }));
-  bank = batches.flat().filter((q) => q.validation_result === 'verified').map(normalizeQuestion);
+  bank = batches.flat().filter((q) => ['verified', 'verified_composite'].includes(q.validation_result)).map(normalizeQuestion);
 }
 
 function getTopics() {
